@@ -2,6 +2,7 @@
 code for autonomous lego robot for uni competition
 
 Ground plan of 1v1 arena
+
 ![image](https://github.com/UBevk/RoboLigaFRI/assets/125929632/40e8a8e2-e8c0-4835-aafe-91e30913f7e2)
 
 **Description of a round**
