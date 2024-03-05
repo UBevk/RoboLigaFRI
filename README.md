@@ -5,6 +5,11 @@ Ground plan of 1v1 arena
 
 ![image](https://github.com/UBevk/RoboLigaFRI/assets/125929632/40e8a8e2-e8c0-4835-aafe-91e30913f7e2)
 
+Tracker
+
+![image](https://github.com/UBevk/RoboLigaFRI/assets/125929632/f65b6390-cbe0-4cac-ab11-1d09d166bae0)
+
+
 **Description of a round**
 
 The match is a duel between two robots. Their goal is to collect as many points as possible within a limited time. Points are obtained by collecting unobtainium in their depot, while collecting waste deducts points.
